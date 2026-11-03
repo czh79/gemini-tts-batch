@@ -1,0 +1,2 @@
+# Gemini 批量语音合成
+google-genai>=1.0.0
